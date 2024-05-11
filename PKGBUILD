@@ -2,7 +2,7 @@
 # Contributor: Victoria Mitchell <victoria@quietmisdreavus.net>
 
 pkgname='git-htmldocs'
-pkgver='2.44.0'
+pkgver='2.45.0'
 pkgrel=1
 pkgdesc='HTML documentation files for Git'
 arch=('any')
@@ -14,7 +14,7 @@ makedepends=()
 checkdepends=()
 optdepends=()
 source=("https://www.kernel.org/pub/software/scm/git/$pkgname-$pkgver.tar."{xz,sign})
-sha256sums=('808f1221940de2a32d7b4a3f675f968a7d0a75058a12a791afcda58b01a6e820'
+sha256sums=('53b6117470c1aa2b7c8ef387944dcb220ed1c303407bda2ff7727818b7569af1'
             'SKIP')
 validpgpkeys=('96E07AF25771955980DAD10020D04E5A713660A7') # Junio C Hamano
 
