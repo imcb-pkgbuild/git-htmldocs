@@ -1,4 +1,4 @@
-# Maintainer: jmcb <joelsgp@protonmail.com>
+# Maintainer: imcb <irismessage@protonmail.com>
 # Contributor: Victoria Mitchell <victoria@quietmisdreavus.net>
 
 pkgname='git-htmldocs'
