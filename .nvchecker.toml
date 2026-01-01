@@ -1,0 +1,3 @@
+[git-htmldocs]
+source = "archpkg"
+archpkg = "git"
