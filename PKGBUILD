@@ -2,7 +2,7 @@
 # Contributor: Victoria Mitchell <victoria@quietmisdreavus.net>
 
 pkgname='git-htmldocs'
-pkgver='2.48.1'
+pkgver=2.48.1
 pkgrel=1
 pkgdesc='HTML documentation files for Git'
 arch=('any')

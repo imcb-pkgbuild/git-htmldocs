@@ -1,3 +1,4 @@
 [git-htmldocs]
 source = "archpkg"
 archpkg = "git"
+strip_release = true
